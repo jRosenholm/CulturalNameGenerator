@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CulturalNameGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a965738d144d985e76acab7ccc8ca32c802fc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1047af391733ddac487d60027e0a7ebf588d36f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CulturalNameGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CulturalNameGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
