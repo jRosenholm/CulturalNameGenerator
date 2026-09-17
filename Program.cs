@@ -37,9 +37,9 @@ app.MapGet("/generate-name/{culture}/{gender}", (string culture, string gender) 
 {
     if (cultures!.ContainsKey(culture.ToLower()))
     {
-        return Results.NotFound();\
+        return Results.NotFound();
         
-        
+
     }
 
     if (firstNames!.ContainsKey(culture.ToLower()) && lastNames!.ContainsKey(culture.ToLower()))
