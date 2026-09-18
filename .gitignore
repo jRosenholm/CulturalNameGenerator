@@ -1,0 +1,8 @@
+*.gz
+*.cache
+
+obj/
+bin/
+
+.vscode/
+*.user
